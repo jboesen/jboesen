@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jboesen
+- 👋 Hi, my name is John Boesen
 - 👀 I’m interested in Deep RL and interpretability, quantitative analysis, and data visualization
 - 🌱 I’m currently learning about transformers, interpretability, and deep learning
 - 💞️ I’m looking to collaborate on replicating papers in this space
